@@ -1,4 +1,4 @@
- <h1 align="center">☂️ LBis (q)  </h1>
+ <h1 align="center">☂️ BIN6666 (q)  </h1>
 # :computer: q(XXX)
 
 ## [![Github](https://img.shields.io/github/followers/qLBis?label=Follow&style=social)](https://github.com/qLBIS) [![Github](https://img.shields.io/github/stars/qLBis?label=Star&style=social)](https://github.com/qLBis)
